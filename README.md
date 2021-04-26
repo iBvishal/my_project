@@ -26,3 +26,6 @@ To run celery worker and celery beat
 Test
 After running the project, to test just make following requests
 curl http://127.0.0.1:8000/youtubevideometa/?title="titleYouWantToSearch"&description="DescYouAreLookingFor"
+
+todo:
+1. Containerize the project
